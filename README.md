@@ -1,2 +1,4 @@
 # Deep Learning Models
- Collection of Models implemented with Pytorch for learning purposes
+ Collection of Models implemented with Pytorch for learning purposes.
+ 
+ 
